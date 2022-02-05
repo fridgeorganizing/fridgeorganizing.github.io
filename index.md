@@ -1,3 +1,1 @@
-<body>
-<a href="app-ads.txt">App-ads.txt</a>
-</body>
+[app-ads.txt](app-ads.txt)
